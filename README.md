@@ -10,7 +10,7 @@ Preview wallpapers in an animated carousel, navigate using keyboard shortcuts, a
 
 ## Demo
 
-[▶ Watch the demo video](demo/demo.mp4)
+https://github.com/Roshin036/quickshell-wallpaper-selector/blob/main/demo/demo.mp4
 
 The demo showcases the selector opening on demand, navigating between wallpaper previews, applying a wallpaper, and closing automatically.
 
